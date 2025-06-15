@@ -1,45 +1,56 @@
-<h2 align="left">VERSIÓN EN ESPAÑOL</h2>
-<p align="left" style="line-height: 1.5;">
-👋 ¡Hola! Soy Leslyer<br>
-🎓 Estudiante de Desarrollo Web Full Stack<br>
-🇧🇷 Brasileño viviendo en 🇦🇷 Argentina<br>
-💡 Apasionado por la programación y siempre buscando aprender y mejorar<br>
-🛠️ Actualmente explorando tecnologías como HTML, CSS, JavaScript, Node.js y React<br>
-🚀 Construyendo proyectos para aplicar mis conocimientos y seguir creciendo día a día
-</p>
+<h1 align="left">👋 ¡Hola!</h1>
 
-<h2 align="left" style="margin-top: 2rem;">VERSÃO EM PORTUGUÊS</h2>
-<p align="left" style="line-height: 1.5;">
-👋 Oi! Eu sou o Leslyer<br>
-🎓 Estudante de Desenvolvimento Web Full Stack<br>
-🇧🇷 Brasileiro morando na 🇦🇷 Argentina<br>
-💡 Apaixonado por programação e sempre buscando aprender e melhorar<br>
-🛠️ Explorando tecnologias como HTML, CSS, JavaScript, Node.js e React<br>
-🚀 Criando projetos para aplicar meus conhecimentos e crescer a cada dia
-</p>
+###
 
-<!-- Imagen a la derecha sin afectar texto -->
-<div align="right" style="margin-bottom: 2rem;">
-  <img src="https://64.media.tumblr.com/55b65e74204f6fb58d643105ae843ce7/db6f4b9a0331e337-26/s540x810/0ccec2107b7699adeadfd3b09f8e1c6c0a3f2c72.gif" 
-       alt="Anime GIF" height="150" />
-</div>
+<p align="left">👋 ¡Hola! Me llamo Leslyer<br>🎓 Soy Estudiante de Desarrollo Web Full Stack.</p>
 
-<!-- Logos de tecnologías -->
-<div align="left" style="margin-bottom: 2rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" style="margin-left:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" style="margin-left:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" style="margin-left:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="margin-left:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="margin-left:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="margin-left:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="margin-left:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+###
+
+<h2 align="left">Sobre mí - Versión en Español</h2>
+
+###
+
+<p align="left">🇧🇷 Brasileño viviendo en 🇦🇷 Argentina  <br>💡 Apasionada por la programación y comprometida con el aprendizaje continuo y la mejora constante en el área de la tecnología.<br>🚀 En busca de mi primera oportunidad laboral como desarrolladora web.</p>
+
+###
+
+<h2 align="left">Sobre mim - Versão em Português</h2>
+
+###
+
+<p align="left">🇧🇷 Brasileiro morando na 🇦🇷 Argentina  <br>💡 Apaixonada por programação e comprometida com o aprendizado contínuo e a melhoria constante na área de tecnologia.  <br>🚀 Em busca da minha primeira oportunidade profissional como desenvolvedora web.</p>
+
+###
+
+<h2 align="left">Tecnologías y Herramientas – Tecnologias e Ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" style="margin-left:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" height="40" alt="mongoose logo"  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="40" alt="postman logo"  />
 </div>
 
+###
 
 <!-- LinkedIn -->
 <div align="left" style="margin-bottom: 3rem;">
