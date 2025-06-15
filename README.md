@@ -52,6 +52,7 @@
 
 ###
 
+ <br>
 <!-- LinkedIn -->
 <div align="left" style="margin-bottom: 3rem;">
   <a href="https://www.linkedin.com/in/leslyer-santos-de-ara%C3%BAjo-7b24b5289/" target="_blank" rel="noopener noreferrer">
