@@ -18,6 +18,10 @@
 
 ###
 
+<p align="left">👋 ¡Olá! Me chamo Leslyer<br>🎓Sou estudante de Desenvolvimento Web Full Stack.</p>
+
+###
+
 <p align="left">🇧🇷 Brasileiro morando na 🇦🇷 Argentina  <br>💡 Apaixonada por programação e comprometida com o aprendizado contínuo e a melhoria constante na área de tecnologia.  <br>🚀 Em busca da minha primeira oportunidade profissional como desenvolvedora web.</p>
 
 ###
