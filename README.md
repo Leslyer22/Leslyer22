@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
+<br>
 <!-- Estadísticas GitHub -->
 <div align="center" style="display: flex; gap: 20px; justify-content: center;">
   <img src="https://streak-stats.demolab.com?user=Leslyer22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
