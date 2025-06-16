@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🇧🇷 Brasileño viviendo en 🇦🇷 Argentina  <br>💡 Apasionada por la programación y comprometida con el aprendizaje continuo y la mejora constante en el área de la tecnología.<br>🚀 En busca de mi primera oportunidad laboral como desarrolladora web.</p>
+<p align="left">🇧🇷 Brasileña viviendo en 🇦🇷 Argentina  <br>💡 Apasionada por la programación y comprometida con el aprendizaje continuo y la mejora constante en el área de la tecnología.<br>🚀 En busca de mi primera oportunidad laboral como desarrolladora web.</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🇧🇷 Brasileiro morando na 🇦🇷 Argentina  <br>💡 Apaixonada por programação e comprometida com o aprendizado contínuo e a melhoria constante na área de tecnologia.  <br>🚀 Em busca da minha primeira oportunidade profissional como desenvolvedora web.</p>
+<p align="left">🇧🇷 Brasileira morando na 🇦🇷 Argentina  <br>💡 Apaixonada por programação e comprometida com o aprendizado contínuo e a melhoria constante na área de tecnologia.  <br>🚀 Em busca da minha primeira oportunidade profissional como desenvolvedora web.</p>
 
 ###
 
