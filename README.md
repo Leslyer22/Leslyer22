@@ -90,6 +90,12 @@
 
   <em><strong>“Si funciona, no lo toques. Pero si se rompe… también lo arreglo.”</strong></em> 🔧
 </p>
+<br>
+<p align="center">
+
+  <em><strong>“Si funciona, no lo toques. Pero si se rompe… también lo arreglo.”</strong></em> 🔧
+</p>
+
 
 
 
