@@ -87,12 +87,10 @@
 
 <p align="center">
   <em><strong>“Se funciona, não toque. Mas se quebrar… eu também dou um jeito.”</strong></em> 🚀
-  <br>
-
-  <em><strong>“Si funciona, no lo toques. Pero si se rompe… también lo arreglo.”</strong></em> 🔧
-
 </p>
 
+
+<p align="center"><em><strong>“Si funciona, no lo toques. Pero si se rompe… también lo arreglo.”</strong></em> 🔧</p>
 
 
 
