@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 ¡Hola! Me llamo Leslyer<br>🎓Soy Estudiante de ingeniería de Software y Desarrollo Web Full Stack. </p>
+<p align="left">👋 ¡Hola! Me llamo Leslyer<br>🎓Soy Estudiante de Ingeniería de Software y Desarrollo Web Full Stack. </p>
 
 ###
 
